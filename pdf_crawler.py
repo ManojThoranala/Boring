@@ -2,7 +2,7 @@
 * FILENAME : pdf_crwaler.py
 *
 * DESCRIPTION : The script shows how PDF file can be read and further processed, using PyPDF2 Library
-*
+# for library refer - https://pypi.org/project/PyPDF2
 * NOTES :
 *
 * AUTHOR :    Manoj Thoranala Manjunatha        
